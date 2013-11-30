@@ -18,3 +18,5 @@ Links to view notebooks
 [2.1 Binary Variables](http://nbviewer.ipython.org/url/jamt9000.github.io/prml/2.1-binary-variables.ipynb)
 
 [2.1.1 The Beta Distribution](http://nbviewer.ipython.org/url/jamt9000.github.io/prml/2.1.1-beta-distribution.ipynb)
+
+[2.5.1 Kernel Density Estimators](http://nbviewer.ipython.org/url/jamt9000.github.io/prml/2.5.1-kernel-density-estimators.ipynb)
