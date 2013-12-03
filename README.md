@@ -19,4 +19,6 @@ Links to view notebooks
 
 [2.1.1 The Beta Distribution](http://nbviewer.ipython.org/github/jamt9000/prml/blob/master/2.1.1-beta-distribution.ipynb)
 
+[2.2 Multinomial Variables](http://nbviewer.ipython.org/github/jamt9000/prml/blob/master/2.2-multinomial-variables.ipynb)
+
 [2.5.1 Kernel Density Estimators](http://nbviewer.ipython.org/github/jamt9000/prml/blob/master/2.5.1-kernel-density-estimators.ipynb)
