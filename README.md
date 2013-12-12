@@ -24,3 +24,5 @@ Links to view notebooks
 [2.5.1 Kernel Density Estimators](http://nbviewer.ipython.org/github/jamt9000/prml/blob/master/2.5.1-kernel-density-estimators.ipynb)
 
 [2.5.2 Nearest Neighbours](http://nbviewer.ipython.org/github/jamt9000/prml/blob/master/2.5.2-nearest-neighbor-classifiers.ipynb)
+
+[3.3.1 Parameter Distribution](http://nbviewer.ipython.org/github/jamt9000/prml/blob/master/3.3.1-parameter-distribution.ipynb)
