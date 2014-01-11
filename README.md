@@ -29,7 +29,7 @@ Links to view notebooks
 
 [3.1, 4.1.1, 4.1.3 Linear Basis Function Models](http://nbviewer.ipython.org/github/jamt9000/prml/blob/master/3.1-4.1.1-4.1.3-linear-basis-function-models.ipynb)
 
-[Discriminant Functions - Two Classes](http://nbviewer.ipython.org/github/jamt9000/prml/blob/master/4.1.1-discriminant-functions-two-classes.ipynb)
+[4.1.1 Discriminant Functions - Two Classes](http://nbviewer.ipython.org/github/jamt9000/prml/blob/master/4.1.1-discriminant-functions-two-classes.ipynb)
 
-[Logistic Regression](http://nbviewer.ipython.org/github/jamt9000/prml/blob/master/4.3_Logistic_Regression.ipynb)
+[4.3 Logistic Regression](http://nbviewer.ipython.org/github/jamt9000/prml/blob/master/4.3_Logistic_Regression.ipynb)
 
